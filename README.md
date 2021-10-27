@@ -1,2 +1,9 @@
 # TextGames_Kalashnikov
-Textovaya Igra
+# Textovaya Igra
+### 1. Создание и отладка текстовых квестов с загрузкой в репозиторий
+### 2. Калашников Максим Игоревич, ИСИП 3/4
+### ТК №21
+### Текстовый квест (1, 2 задание вместе)
+### История вашего персонажа (Демо)
+### ![image](https://user-images.githubusercontent.com/91247327/139049578-3f612b83-f12d-44f4-b3dd-a2c349152c85.png)
+##### maksertyu367@gmail.com
